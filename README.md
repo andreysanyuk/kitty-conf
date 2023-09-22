@@ -1,1 +1,2 @@
-# kitty-conf
+# For Convinience
+Kitty terminal config
